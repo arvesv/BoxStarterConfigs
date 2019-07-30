@@ -1,7 +1,7 @@
 enable-remotedesktop
 Update-ExecutionPolicy RemoteSigned
 cinst visualstudio2017buildtools
-cinst VisualStudio2012Professional /Features:VCMFCLibaries 
+cinst VisualStudio2012Professional /Features:VCMFCLibraries 
 cinst visualstudio2012-update
 
 
