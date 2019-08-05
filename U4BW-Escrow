@@ -1,0 +1,6 @@
+enable-remotedesktop
+Update-ExecutionPolicy RemoteSigned
+cinst VisualStudio2012Professional -packageParameters  "/Features:VCMFCLibraries"
+cinst visualstudio2012-update
+
+
